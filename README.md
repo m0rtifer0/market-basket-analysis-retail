@@ -130,5 +130,4 @@ market-basket-analysis/
 MIT — free to adapt with attribution.
 
 ## 9 · Author
-**Cengiz Sezer** · Business Administration (quant track) · Python · C++ · SQL · Stochastic
-Optimisation · Monte Carlo.
+**Cengiz Sezer**
