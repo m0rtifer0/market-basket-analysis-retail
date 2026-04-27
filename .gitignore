@@ -1,11 +1,7 @@
-# Data — never commit raw retail data
 data/*
 !data/.gitkeep
 
-# Figures — committed so the README renders on GitHub.
-# (regenerate via the notebook)
 
-# Python
 __pycache__/
 *.py[cod]
 *.egg-info/
@@ -13,14 +9,14 @@ __pycache__/
 venv/
 .env
 
-# Jupyter
+
 .ipynb_checkpoints/
 *.nbconvert.ipynb
 
-# IDE
+
 .vscode/
 .idea/
 .DS_Store
 
-# Personal — kept locally, never committed
+
 CV_BULLETS.md
