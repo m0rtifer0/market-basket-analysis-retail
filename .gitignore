@@ -21,3 +21,6 @@ venv/
 .vscode/
 .idea/
 .DS_Store
+
+# Personal — kept locally, never committed
+CV_BULLETS.md
