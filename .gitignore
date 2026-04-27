@@ -1,0 +1,23 @@
+# Data — never commit raw retail data
+data/*
+!data/.gitkeep
+
+# Figures — committed so the README renders on GitHub.
+# (regenerate via the notebook)
+
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.venv/
+venv/
+.env
+
+# Jupyter
+.ipynb_checkpoints/
+*.nbconvert.ipynb
+
+# IDE
+.vscode/
+.idea/
+.DS_Store
